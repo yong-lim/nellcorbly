@@ -1,17 +1,26 @@
 <section>
   <h2>Get in touch</h2>
-  <form method="post" action="#">
+  <form onsubmit="sendEmailFallLikeRain(event)">
+    <div id="alert-field" class="alert hidden">
+      <p>Uh oh! Something went wrong!</p>
+    </div>
     <div class="field half first">
-      <input type="text" name="name" id="name" placeholder="Name" />
+      <input type="text" name="name-field" id="name-field" placeholder="Name" required />
     </div>
     <div class="field half">
-      <input type="email" name="email" id="email" placeholder="Email" />
+      <input type="email" name="email-field" id="email-field" placeholder="Email" required />
     </div>
     <div class="field">
-      <textarea name="message" id="message" placeholder="Message"></textarea>
+      <textarea name="body-field" id="body-field" placeholder="Message"></textarea>
     </div>
     <ul class="actions">
       <li><input type="submit" value="Send" class="special" /></li>
     </ul>
   </form>
 </section>
+
+<style>
+.hidden{
+    display:none !important
+}
+</style>
