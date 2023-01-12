@@ -17,8 +17,8 @@ testamonial: >
   dualism of the West, and takes seriously body and soul.
   (The Flaw of the Excluded Middle)
 
-baseurl: "/fall-like-rain" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://fall-like-rain.4lims.com" # the base hostname & protocol for your site
 
 # Contact settings
 email: yong.lim@gmail.com
@@ -35,5 +35,6 @@ kramdown:
 include: ["_pages"]
 
 exclude: ["README.md", "LICENSE.md", "screenshot.png"]
+
 
 
