@@ -20,6 +20,8 @@ testamonial: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fall-like-rain.4lims.com" # the base hostname & protocol for your site
 
+author: "Nell Corbly"
+
 # Contact settings
 email: yong.lim@gmail.com
   #twitter_username: jekyllrb
