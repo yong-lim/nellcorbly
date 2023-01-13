@@ -193,6 +193,7 @@
 		& + label {
 			&:before {
 				border-radius: _size(border-radius);
+			  display:none !important 
 			}
 		}
 	}
