@@ -1,0 +1,39 @@
+- id: section1 
+  label: "Poverty and Justice/Injustice/Mercy"
+  text: |
+       * 1 John 3: 16-18\n
+       * James 1:27\n
+       * Proverbs 19:7, 22:9. 31:8-9, 14:31\n
+       * Psalm 109: 30-31, 35:10\n
+       * Micah 6:8\n
+       * Isaiah 58: 6-8\n
+       * Galatians 2:8-10\n
+       * Psalm 10:16-18"
+    
+- id: section2 
+  label: "Crossing Cultures and Worldview Transformation"
+  text: |
+    * Romans 12:1-16
+    * Leviticus 19:33-34
+    * Deuteronomy 10:18-19
+    * 1 Chronicles 16:23-24
+    * Romans 10:13-14
+    * Acts 13:47
+    * Matthew 28: 19-20
+    * Romans 10:13-15
+    * Ephesians 2:18-20
+
+- id: section3 
+  label: "Spiritual Realm and Battle"
+  text: |
+    * Ephesians 6:12
+    * 1 Peter 5:8
+    * 1 Corinthians 10:20-21
+    * Acts 19:8-16
+    * Matthew 8:28-30
+    * Acts 16:16-18
+    * 1 Samuel 16:4-5, 18:10-11, 19:9-10
+    * Psalm 106:37
+    * Mark 6:7
+    * Luke 4:31-36, 8:26-38
+    * James 2:9
