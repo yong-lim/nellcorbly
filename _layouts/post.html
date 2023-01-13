@@ -10,7 +10,11 @@ layout: default
         {{ page.date | date: "%b %-d, %Y" }}
       </time> •
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span itemprop="name">{{ page.author }}</span>
+        {% if page.author %}
+          <span itemprop="name">{{ page.author }}</span>
+        {% else %}
+          <span itemprop="name">{{ site.author }}</span>
+        {% endif %}
       </span>
       {% for cat in page.categories %}
         • <span>{{ cat }}</span>
