@@ -1,10 +1,10 @@
 ---
 layout:       post
-title:        "Mission Org."
+title:        "FALL LIKE RAIN STUDY GUIDE"
 date:         2023-01-10 18:22:44 +0200
-author:       "Author"
-categories:   jekyll update
-tags:         tag1 tag2
+# author:       "Nell Corbly"
+# categories:   jekyll update
+# tags:         tag1 tag2
 
 # POSTS LIST
 class:       "style1"                               # config bg-color to post list card (1..6)
@@ -17,22 +17,21 @@ description: >                                      # config description to post
 header-image: "/assets/images/pic13.jpg"            # config image to post header
 alt-image:    "image description welcome to jekyll" # config image description to alt att.
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### INTRODUCTION
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: 
+True stories that can be used as case studies. The Fall Like Rain Study Guide provides
+several ways to learn about key topics such as poverty, worldview, culture and the spiritual
+realm through the case studies. 
 
-Jekyll also offers powerful support for code snippets:
+It is for international ministry/ mission leaders and teachers, practitioners, and advocates.
+It is designed for global studies or mission classes (church or college-based), and mission
+or development worker teams (field or home front); for people who work with immigrants or
+refugees: Anyone who wants to learn more about cross-cultural ministry of any kind.
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+Although the stories are set in Cambodia, workers from any field with a fear-power or
+honor-shame culture can learn much about cross cultural work. One theme is
+worker-as-learner, which is not specific to any one place. Key themes like poverty
+alleviation and worldview transformation are relevant on many fields.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

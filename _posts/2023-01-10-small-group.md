@@ -2,9 +2,9 @@
 layout:       post
 title:        "Small Group Study"
 date:         2023-01-10 18:23:44 +0200
-author:       "Author"
-categories:   jekyll update
-tags:         tag1 tag2
+# author:       "Author"
+# categories:   jekyll update
+# tags:         tag1 tag2
 
 # POSTS LIST
 class:       "style2"                         # config bg-color to post list card (1..6)
@@ -17,22 +17,24 @@ description: >                                # config description to post list 
 header-image: "/assets/images/pic13.jpg"      # config image to post header
 alt-image:    "image description test post"   # config image description to alt att.
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### Small Group Bible Study Guide 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: 
+True stories that can be used as case studies. The guide provides several ways to learn what
+the Bible has to say about key topics such as poverty, worldview, culture and the spiritual
+realm, using the stories in the book. 
 
-Jekyll also offers powerful support for code snippets:
+LEADERS: There are several ways to use this guide.
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+- For a basic study, have all participants read the book on their own, 
+and then use the BOOK CLUB discussion questions (page 3), along with the
+scripture list (page 2). It is recommended to do this over 3-6 study sessions.
+- For a deeper look, have all participants write in the THROUGH THE STORY
+workbook as they read, and discuss highlights with the group. Then use the
+scripture list as the various topics come up.
+- For further study, see the CROSS-CULTURAL STUDY THROUGH STORY and the
+RECOMMENDED READING LIST at nellcorbly.com.- coming soon
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## SCRIPTURES BY TOPIC
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+{%- include accordion.html -%}
