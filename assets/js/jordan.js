@@ -25,7 +25,7 @@ function sendEmailFLR(e) {
   const postRequest = {
     name: e.target['name-field'].value,
     email: e.target['email-field'].value,
-    body: e.target['message-field'].value,
+    message: e.target['message-field'].value,
   };
 
   if(POST_URL) {
