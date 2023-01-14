@@ -8,10 +8,10 @@ function formFocus() {
     .addClass('hidden');
 }
 
-function sendEmailFallLikeRain(e) {
+function sendEmailFLR(e) {
   e.preventDefault();
 
-  console.log("in jordan.js");
+  console.log("in sendEmailFLR");
   
   // const POST_URL = 'https://script.google.com/macros/s/AKfycbwQ_wdqOBA_Z-29b9s2BZ7GHB3bGhlVzRL2hNwKdp-KoTQ5vhQ5bxz8uinBuKwvKDzP/exec'
   // const postRequest = {
@@ -20,12 +20,12 @@ function sendEmailFallLikeRain(e) {
   //   email: e.target['email-field'].value,
   //   body: e.target['body-field'].value
   // };
-  //
+  
   const POST_URL = 'https://script.google.com/macros/s/AKfycbxYtKqWsyoOoQFIxPq7BisC-2Xnlcrgka9-MAwQyWd-K1LZOjOsQWuQg951OUk4SyOk7w/exec'
   const postRequest = {
     name: e.target['name-field'].value,
     email: e.target['email-field'].value,
-    body: e.target['body-field'].value,
+    body: e.target['message-field'].value,
   };
 
   if(POST_URL) {
@@ -59,6 +59,7 @@ function changeSubject(e) {
     $('#hidden-other-subject').addClass('hidden');
   }
 }
+
 
 
 
