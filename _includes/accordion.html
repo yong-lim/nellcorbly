@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="{{ "/assets/css/accordion.css" | prepend: site.baseurl }}">
 
 <div class="accordion">
-  {% for acc in site.data.scripture-by-toppic %}
+  {% for acc in site.data.[page.data] %}
   <div>
     <input type="checkbox" name="example_accordion" id="{{ acc.id }}" class="accordion__input">
     <label for="{{ acc.id }}" class="accordion__label">{{ acc.label }}</label>
