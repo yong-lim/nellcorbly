@@ -1,4 +1,4 @@
-- id: section1 
+- id: section1
   label: "Poverty and Justice/Injustice/Mercy"
   text: |
        * 1 John 3: 16-18
@@ -10,7 +10,7 @@
        * Galatians 2:8-10
        * Psalm 10:16-18"
     
-- id: section2 
+- id: section2
   label: "Crossing Cultures and Worldview Transformation"
   text: |
     * Romans 12:1-16
@@ -23,7 +23,7 @@
     * Romans 10:13-15
     * Ephesians 2:18-20
 
-- id: section3 
+- id: section3
   label: "Spiritual Realm and Battle"
   text: |
     * Ephesians 6:12
