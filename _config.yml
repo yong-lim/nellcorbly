@@ -22,6 +22,8 @@ url: "https://fall-like-rain.4lims.com" # the base hostname & protocol for your 
 
 author: "Nell Corbly"
 
+permalink: /:title/
+
 # Contact settings
 email: yong.lim@gmail.com
   #twitter_username: jekyllrb
