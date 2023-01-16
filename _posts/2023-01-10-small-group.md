@@ -25,7 +25,7 @@ True stories that can be used as case studies. The guide provides several ways t
 the Bible has to say about key topics such as poverty, worldview, culture and the spiritual
 realm, using the stories in the book. 
 
-LEADERS: There are several ways to use this guide.
+**LEADERS:** There are several ways to use this guide.
 
 - For a basic study, have all participants read the book on their own, 
 and then use the BOOK CLUB discussion questions (page 3), along with the
