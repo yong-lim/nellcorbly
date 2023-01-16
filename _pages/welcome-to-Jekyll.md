@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      "Welcome to Jekyll!"
-order: 10
+order: 11
 permalink: /welcome/
 
 # POSTS LIST

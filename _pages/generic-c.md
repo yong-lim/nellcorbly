@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Generic Page C"
-order: 4
+order: 13
 permalink: /generic-c/
 ---
 

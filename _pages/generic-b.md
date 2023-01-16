@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Generic Page B"
-order: 5
+order: 12
 permalink: /generic-b/
 
 header-image: "/assets/images/pic13.jpg"
