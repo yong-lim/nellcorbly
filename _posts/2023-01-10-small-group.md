@@ -16,6 +16,7 @@ description: >                                # config description to post list 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
 alt-image:    "image description test post"   # config image description to alt att.
+data: scripture-by-toppic
 ---
 ### Small Group Bible Study Guide 
 
