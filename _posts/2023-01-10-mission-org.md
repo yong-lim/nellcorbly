@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Missoin Org. Study Guide"
+title:        "Mission Org. Study Guide"
 date:         2023-01-10 18:22:44 +0200
 # author:       "Nell Corbly"
 # categories:   jekyll update
