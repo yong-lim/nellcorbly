@@ -14,14 +14,16 @@ description: > # this means to ignore newlines until "baseurl:"
 book: "https://a.co/d/gTLURUz"
 ---
 <header>
+  <p><b>"The website provides a study materials based on topics from Fall Like Rain. Please note, the content is still being written: currently it is not yet complete. Please check back later! Thank you!"</b></p>
+  <hr>
   <h1>{{ site.subtitle }}</h1>
   <p>{{ page.description }}</p>
 </header>
 
-  {% include buy-book.html %}
-  <hr>
-  <blockquote>{{ site.testamonial }}</blockquote>
-  <h4>Paul G. Hiebert</h4>
+{% include buy-book.html %}
+<hr>
+<blockquote>{{ site.testamonial }}</blockquote>
+<h4>Paul G. Hiebert</h4>
 
 <section class="tiles">
 
