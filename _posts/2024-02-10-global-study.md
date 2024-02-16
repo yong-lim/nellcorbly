@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "GLOBAL STUDIES CLASSES"
+title:        "Global Studies Classes"
 # author:       "Author"
 # categories:   jekyll update
 # tags:         tag1 tag2

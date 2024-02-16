@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "TOPICAL STUDY GUIDE"
+title: "Topical Study Guide"
 order: 2
 permalink: /topical-study-guide/
 data: topical-study-guide

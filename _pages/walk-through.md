@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WALK THROUGH THE STORY"
+title: "Walk Through The Story"
 order: 3
 
 header-image: "/assets/images/pic13.jpg"
