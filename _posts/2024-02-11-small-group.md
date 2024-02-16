@@ -1,7 +1,6 @@
 ---
 layout:       post
 title:        "Small Group Study"
-date:         2023-01-10 18:23:44 +0200
 # author:       "Author"
 # categories:   jekyll update
 # tags:         tag1 tag2
@@ -10,8 +9,7 @@ date:         2023-01-10 18:23:44 +0200
 class:       "style2"                         # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
-  Join our small group to gain more insight
-  in the story God teaches us.
+  For small bible study groups
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header

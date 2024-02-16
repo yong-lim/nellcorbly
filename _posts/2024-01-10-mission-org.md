@@ -1,7 +1,6 @@
 ---
 layout:       post
-title:        "Mission Org. Study Guide"
-date:         2023-01-10 18:22:44 +0200
+title:        "Missionary Training"
 # author:       "Nell Corbly"
 # categories:   jekyll update
 # tags:         tag1 tag2
@@ -12,8 +11,7 @@ data: recommendations
 class:       "style4"                               # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic04.jpg"             # config image to post list card (1..6)
 description: >                                      # config description to post list card
-  For greater indepth study as preparation
-  for new and seasoned mission partners.
+  Worldview challenging study for new and seasoned Missionaries
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"            # config image to post header
