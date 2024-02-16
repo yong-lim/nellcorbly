@@ -20,21 +20,14 @@ data: scripture-by-toppic
 ---
 ### Small Group Bible Study Guide 
 
-**Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: 
-True stories that can be used as case studies. The guide provides several ways to learn what
-the Bible has to say about key topics such as poverty, worldview, culture and the spiritual
-realm, using the stories in the book. 
+**Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: True stories that can be used as case studies. The guide provides several ways to learn what the Bible has to say about key topics such as poverty, worldview, culture and the spiritual realm, using the stories in the book.
 
-**LEADERS:** There are several ways to use this guide.
 
-- For a basic study, have all participants read the book on their own, 
-and then use the BOOK CLUB discussion questions (page 3), along with the
-scripture list (page 2). It is recommended to do this over 3-6 study sessions.
-- For a deeper look, have all participants write in the THROUGH THE STORY
-workbook as they read, and discuss highlights with the group. Then use the
-scripture list as the various topics come up.
-- For further study, see the CROSS-CULTURAL STUDY THROUGH STORY and the
-RECOMMENDED READING LIST at nellcorbly.com.- coming soon
+**SMALL GROUP LEADERS:** There are several ways to use this guide.
+
+- For a basic study, have all participants read the book on their own, and then use the BOOK CLUB discussion questions, along with the scripture list. It is recommended to do this over 3-6 study sessions.
+- For a deeper look, have all participants write in the THROUGH THE STORY workbook as they read, and discuss highlights with the group. Then use the scripture list as the various topics come up.
+- For more in-depth study of these key topics, see the Global Studies materials on this site.
 
 ## SCRIPTURES BY TOPIC
 
