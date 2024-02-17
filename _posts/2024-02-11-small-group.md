@@ -12,7 +12,7 @@ description: >                                # config description to post list 
   For small bible study groups
 
 # POST HEADER
-header-image: "/assets/images/pic13.jpg"      # config image to post header
+header-image: "/assets/images/Artwork12.jpeg"      # config image to post header
 alt-image:    "image description test post"   # config image description to alt att.
 data: scripture-by-toppic
 small-group: "https://docs.google.com/document/d/e/2PACX-1vSfwdJnGJZVngKcSRY3rOnuMD6p8sQy9SYlkBLJnwm2W1hCON4A59mUSL6l4q2_LUpvcuG8Yl8G7n_L/pub"

@@ -12,7 +12,7 @@ description: >                                # config description to post list 
   For church or school-based missions classes
 
 # POST HEADER
-header-image: "/assets/images/pic13.jpg"      # config image to post header
+header-image: "/assets/images/Artwork13.jpeg"      # config image to post header
 alt-image:    "image description test post"   # config image description to alt att.
 data: scripture-by-toppic
 global-study : "https://docs.google.com/document/d/e/2PACX-1vQ0Iu98ByuH67de8ZOOpRV87IPrXEN8_ZPqQUW2mnZ6asRfILTx_AqSPgfAVaqAdbItL4Wau86C65wi/pub"

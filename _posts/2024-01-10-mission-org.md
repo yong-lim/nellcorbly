@@ -14,7 +14,7 @@ description: >                                      # config description to post
   Worldview challenging study for new and seasoned Missionaries
 
 # POST HEADER
-header-image: "/assets/images/pic13.jpg"            # config image to post header
+header-image: "/assets/images/Artwork18.jpeg"            # config image to post header
 alt-image:    "image description welcome to jekyll" # config image description to alt att.
 missionary-training: "https://docs.google.com/document/d/e/2PACX-1vT8yrJmdwvkHJl-g2Zk8YvroB96rN-OqKpEWTDANh8BwMROZUY5rR042_LWq8-XuOul4QiYYrNLwnkH/pub"
 ---
