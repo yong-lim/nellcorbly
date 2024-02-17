@@ -16,8 +16,13 @@ description: >                                      # config description to post
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"            # config image to post header
 alt-image:    "image description welcome to jekyll" # config image description to alt att.
+missionary-training: "https://docs.google.com/document/d/e/2PACX-1vT8yrJmdwvkHJl-g2Zk8YvroB96rN-OqKpEWTDANh8BwMROZUY5rR042_LWq8-XuOul4QiYYrNLwnkH/pub"
 ---
 ### INTRODUCTION
+
+<div class="4u 12u$(medium)">
+  <a href="{{ page.missionary-training}}" target="_blank" class="button special fit">Missionary Training Doc</a>
+</div>
 
 **Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: 
 True stories that can be used as case studies. The Fall Like Rain Study Guide provides

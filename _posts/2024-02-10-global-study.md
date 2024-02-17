@@ -20,5 +20,5 @@ global-study : "https://docs.google.com/document/d/e/2PACX-1vQ0Iu98ByuH67de8ZOOp
 ### Global Studies Classes
 
 <div class="4u 12u$(medium)">
-  <a href="{{ page.global-study }}" target="_blank" class="button special fit">Global Study</a>
+  <a href="{{ page.global-study }}" target="_blank" class="button special fit">Global Study Doc</a>
 </div>

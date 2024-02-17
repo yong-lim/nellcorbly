@@ -15,8 +15,13 @@ description: >                                # config description to post list 
 header-image: "/assets/images/pic13.jpg"      # config image to post header
 alt-image:    "image description test post"   # config image description to alt att.
 data: scripture-by-toppic
+small-group: "https://docs.google.com/document/d/e/2PACX-1vSfwdJnGJZVngKcSRY3rOnuMD6p8sQy9SYlkBLJnwm2W1hCON4A59mUSL6l4q2_LUpvcuG8Yl8G7n_L/pub"
 ---
 ### Small Group Bible Study Guide 
+
+<div class="4u 12u$(medium)">
+  <a href="{{ page.small-group }}" target="_blank" class="button special fit">Small Group Study Doc</a>
+</div>
 
 **Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: True stories that can be used as case studies. The guide provides several ways to learn what the Bible has to say about key topics such as poverty, worldview, culture and the spiritual realm, using the stories in the book.
 
