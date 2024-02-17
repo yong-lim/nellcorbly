@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Topical Study Guide"
-order: 2
+order: 12
 permalink: /topical-study-guide/
 data: topical-study-guide
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Walk Through The Story"
-order: 3
+order: 13
 
 header-image: "/assets/images/pic13.jpg"
 alt-image: "image description generic"
