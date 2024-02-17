@@ -1,14 +1,16 @@
 <link rel="stylesheet" href="{{ "/assets/css/accordion.css" | prepend: site.baseurl }}">
 
-<div class="accordion">
-  {% for acc in site.data.[page.data] %}
-  <div>
-    <input type="checkbox" name="example_accordion" id="{{ acc.id }}" class="accordion__input">
-    <label for="{{ acc.id }}" class="accordion__label">{{ acc.label }}</label>
-    <div class="accordion__content">
-      {{ acc.text | markdownify }}
+<div class="8u 12u$(medium)">
+  <div class="accordion">
+    {% for acc in site.data.[page.data] %}
+    <div>
+      <input type="checkbox" name="example_accordion" id="{{ acc.id }}" class="accordion__input">
+      <label for="{{ acc.id }}" class="accordion__label">{{ acc.label }}</label>
+      <div class="accordion__content">
+        {{ acc.text | markdownify }}
+      </div>
     </div>
+    {% endfor %}
   </div>
-  {% endfor %}
 </div>
 
