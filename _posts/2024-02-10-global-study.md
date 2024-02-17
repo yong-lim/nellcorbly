@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Global Studies Classes"
+title:        "Global Studies Course"
 # author:       "Author"
 # categories:   jekyll update
 # tags:         tag1 tag2
@@ -17,8 +17,8 @@ alt-image:    "image description test post"   # config image description to alt 
 data: scripture-by-toppic
 global-study : "https://docs.google.com/document/d/e/2PACX-1vQ0Iu98ByuH67de8ZOOpRV87IPrXEN8_ZPqQUW2mnZ6asRfILTx_AqSPgfAVaqAdbItL4Wau86C65wi/pub"
 ---
-### Global Studies Classes
+### Global Studies Course
 
 <div class="4u 12u$(medium)">
-  <a href="{{ page.global-study }}" target="_blank" class="button special fit">Global Study Doc</a>
+  <a href="{{ page.global-study }}" target="_blank" class="button special fit">Global Study Course Doc</a>
 </div>

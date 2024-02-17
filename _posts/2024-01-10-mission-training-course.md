@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Missionary Training"
+title:        "Missionary Training Course"
 # author:       "Nell Corbly"
 # categories:   jekyll update
 # tags:         tag1 tag2
@@ -21,7 +21,7 @@ missionary-training: "https://docs.google.com/document/d/e/2PACX-1vT8yrJmdwvkHJl
 ### INTRODUCTION
 
 <div class="4u 12u$(medium)">
-  <a href="{{ page.missionary-training}}" target="_blank" class="button special fit">Missionary Training Doc</a>
+  <a href="{{ page.missionary-training}}" target="_blank" class="button special fit">Missionary Training Course Doc</a>
 </div>
 
 **Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: 
