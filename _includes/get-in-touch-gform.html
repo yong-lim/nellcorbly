@@ -1,0 +1,76 @@
+<section>
+  <h2>Get in touch</h2>
+  <form id="formID" onsubmit="postNellcorbly(event)">
+    <div class="field half first">
+      <input type="text" name="entry.485428648" id="name-field" placeholder="Name" required />
+    </div>
+    <div class="field half">
+      <input type="email" name="entry.879531967" id="email-field" placeholder="Email" required />
+    </div>
+    <div class="field">
+      <textarea name="entry.1696159737" id="message-field" placeholder="Message"></textarea>
+    </div>
+    <ul class="actions">
+      <li><input type="submit" value="Send" class="special" /></li>
+    </ul>
+    <div id="alert-error" class="alert hidden">
+      <p>Uh oh! Something went wrong!</p>
+    </div>
+    <div id="alert-field" class="alert hidden">
+      <span>
+        <b><p>Please wait while we register you ...</p></b>
+        <progress></progress>
+      </span>
+    </div>
+  </form>
+</section>
+
+<script>
+function postNellcorbly(e) {
+  e.preventDefault();
+
+  console.log("in postNellcorbly");
+
+  const POST_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSeC0-DqVXCU7puysNMOIzrCt0-pLDlsYI2TuLIOSNXwCRYLKQ/formResponse';
+
+  //AJAX request
+  $('#alert-field').removeClass('hidden');
+  $.ajax({
+    url: POST_URL,     //The public Google Form url, but replace /view with /formResponse
+    data: $('#formID').serialize(), //Nifty jquery function that gets all the input data 
+    type: 'POST', //tells ajax to post the data to the url
+    dataType: "json", //the standard data type for most ajax requests
+    statusCode: { //the status code from the POST request
+      0: function(data) { //0 is when Google gives a CORS error, don't worry it went through
+        //success
+        console.log("statusCode 0");
+        formReset();
+      }, 
+      200: function(data) {//200 is a success code. it went through!
+        //success
+        // $('#form-success').text('hooray! 200');
+        console.log("statusCode 200");
+        formReset();
+      },
+      403: function(data) {//403 is when something went wrong and the submission didn't go through
+        //error
+        $('#alert-error').removeClass('hidden');
+        alert('Oh no! something went wrong. Please let us know of your problem.');
+      }
+    }  
+  });
+}
+
+function formReset() {
+  $('#alert-field')
+    .removeClass()
+    .html("<span><p>Thank you for dropping us a line . . .</p></span>")
+    .removeClass('hidden');
+  document.getElementById("formID").reset();
+  setTimeout(() => {
+    $('#alert-field').removeClass().addClass('hidden');
+    // console.log('This alert appeared after 3 second!'); 
+  }, 3000);
+}
+  
+</script>
