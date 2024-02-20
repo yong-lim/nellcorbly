@@ -8,7 +8,7 @@
       <input type="email" name="entry.879531967" id="email-field" placeholder="Email" required />
     </div>
     <div class="field">
-      <textarea name="entry.1696159737" id="message-field" placeholder="Message"></textarea>
+      <textarea name="entry.1696159737" id="message-field" placeholder="Message" required ></textarea>
     </div>
     <ul class="actions">
       <li><input type="submit" value="Send" class="special" /></li>
@@ -39,6 +39,7 @@ function postNellcorbly(e) {
     url: POST_URL,     //The public Google Form url, but replace /view with /formResponse
     data: $('#formID').serialize(), //Nifty jquery function that gets all the input data 
     type: 'POST', //tells ajax to post the data to the url
+    cache: false,
     dataType: "json", //the standard data type for most ajax requests
     statusCode: { //the status code from the POST request
       0: function(data) { //0 is when Google gives a CORS error, don't worry it went through
@@ -64,7 +65,7 @@ function postNellcorbly(e) {
 function formReset() {
   $('#alert-field')
     .removeClass()
-    .html("<span><p>Thank you for dropping us a line . . .</p></span>")
+    .html("<span><p>Thank you for getting in touch with us . . .</p></span>")
     .removeClass('hidden');
   document.getElementById("formID").reset();
   setTimeout(() => {
