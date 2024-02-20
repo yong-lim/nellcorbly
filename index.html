@@ -13,7 +13,14 @@ description: >
 
 book: "https://a.co/d/gTLURUz"
 study-story  : "https://docs.google.com/document/d/e/2PACX-1vQ6OwUcAQKZa2mbY3wYu3Arj6FlSY_ETCrXCIipBodtFse_ZyY_4PeVruzji7jPRg/pub"
+
+header-image: "/assets/images/Artwork4.jpeg"            # config image to post header
+
 ---
+{% if page.header-image %}
+  <span class="image main"><img src="{{ page.header-image | prepend: site.baseurl }}" alt="{{ page.alt-image }}"></span>
+{% endif %}
+
 Welcome! This website was created to host the <b><i>Study Through Story</i></b> global mission curriculum materials which are designed to be used with my book <b><i>Fall Like Rain</i></b> as a starting point.
 
 <br> <br>
