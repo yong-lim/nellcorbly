@@ -29,7 +29,7 @@ small-group: "https://docs.google.com/document/d/e/2PACX-1vSfwdJnGJZVngKcSRY3rOn
 **SMALL GROUP LEADERS:** There are several ways to use this guide.
 
 - For a basic study, have all participants read the book on their own, and then use the BOOK CLUB discussion questions, along with the scripture list. It is recommended to do this over 3-6 study sessions.
-- For a deeper look, have all participants write in the THROUGH THE STORY workbook as they read, and discuss highlights with the group. Then use the scripture list as the various topics come up.
+- For a deeper look, have all participants write in the COMPANION workbook as they read, and discuss highlights with the group. Then use the scripture list as the various topics come up.
 - For more in-depth study of these key topics, see the Global Studies materials on this site.
 
 ## SCRIPTURES BY TOPIC

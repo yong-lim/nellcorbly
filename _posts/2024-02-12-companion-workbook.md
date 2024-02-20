@@ -12,7 +12,7 @@ description: >                                # config description to post list 
   Take a deeper dive with a guided journal for each section of the book:
 
 # POST HEADER
-header-image: "/assets/images/pic13.jpg"      # config image to post header
+header-image: "/assets/images/Artwork21.jpeg"      # config image to post header
 alt-image:    "image description test post j" # config image description to alt att.
 
 data: through-the-story
