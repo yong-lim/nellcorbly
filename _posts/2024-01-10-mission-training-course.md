@@ -20,7 +20,18 @@ missionary-training: "https://docs.google.com/document/d/e/2PACX-1vT8yrJmdwvkHJl
 ---
 ### INTRODUCTION
 
+In my years as a field development worker/ missionary, I have seen various methods of teaching newer workers about culture. Too often these are very academic. Most people from the developed world feel very comfortable with research. Then reality hits when they get on the field.  They discover that learning language and understanding culture are things that can not just be conquered by extra hard work and study. Many new workers start out in language study with that conquering attitude- only to discover that it is a process that involves a lot of listening and patience. In the same way, understanding worldviews and cultures different from our own is not something that happens through academic study. Most importantly- It involves starting with our own hearts. My assumption is that missionaries have already been equipped with plenty of factual information on their host culture. This course is meant to have you take a deeper, more meaningful and personal dive. It is a call to see things differently- to put on new glasses. In fact from here on out, I will refer to the course as the New Glasses Course- just as a continual reminder that this is your goal!
+
+### Overview and Goals
+**Who:** Missionaries in training (on-field) from any field and their leaders/ trainers. Although it can be used pre-field as well, the learners will benefit most while immersed in their host culture, navigating the complexities of everyday life there. 
+
+**Teachers:** my hope is to make your job much easier by providing ready-made and flexible materials that you can adapt to your own contexts. Because the materials emphasize the range of worldviews and cultures, it should be useful in many contexts, not just South East Asia.
+
+**Description:** A practical course of study for long-term cross cultural workers. The overarching emphasis is on wearing “new glasses”: a willingness to acknowledge our own blind spots. Using Fall Like Rain as a starting point only, it explores six topics and Includes a variety of other articles, books, activities and resources. The topics studied are, in order, Worldview, Spiritual Realm, Culture, Poverty, Justice and Mercy, and Best Practice. Before diving into these six topics, we will do a study on wisdom. 
+ The “New Glasses” Missionary Training Course is best used as training for new missionaries on the field, but parts of it could be used pre-field as well. Mission organizations could run the course for newer missionaries, partly as a self study, with regular meetings for discussion groups. Ideally the leaders would invite experienced missionaries or nationals, who could share stories which illustrate the concepts.  The leader/ teacher can choose learning activities and add their own, according to their goals. This curriculum can be done as is for a basic overview or as a starting point on these topics, but teachers are encouraged to add readings that are specific to their contexts.
+
 <div class="4u 12u$(medium)">
+  Click on the document link for the full course. . .
   <a href="{{ page.missionary-training}}" target="_blank" class="button special fit">Missionary Training Course Doc</a>
 </div>
 
