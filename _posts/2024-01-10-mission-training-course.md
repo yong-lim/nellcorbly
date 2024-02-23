@@ -31,7 +31,7 @@ In my years as a field development worker/ missionary, I have seen various metho
  The “New Glasses” Missionary Training Course is best used as training for new missionaries on the field, but parts of it could be used pre-field as well. Mission organizations could run the course for newer missionaries, partly as a self study, with regular meetings for discussion groups. Ideally the leaders would invite experienced missionaries or nationals, who could share stories which illustrate the concepts.  The leader/ teacher can choose learning activities and add their own, according to their goals. This curriculum can be done as is for a basic overview or as a starting point on these topics, but teachers are encouraged to add readings that are specific to their contexts.
 
 <div class="4u 12u$(medium)">
-  Click on the document link for the full course. . .
+  Click on the document link for the full course
   <a href="{{ page.missionary-training}}" target="_blank" class="button special fit">Missionary Training Course Doc</a>
 </div>
 

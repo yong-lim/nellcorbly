@@ -30,6 +30,6 @@ Lastly, other workers for the harvest are needed; senders, pastors, teachers, pr
 **Description:** A practical cross-cultural course of study. Using Fall Like Rain as a starting point, it explores six topics and Includes a variety of other readings, activities and resources. The topics studied are Worldview, Spiritual Realm, Culture, Poverty, Justice and Mercy, and Best Practice. The curriculum is designed to be flexible. The leader/ teacher can choose learning activities and add their own, according to their goals. It is strongly suggested, however, to approach the topics in the order written, since the concepts build sequentially. This curriculum can be done as is for a basic overview of these points, but teachers are encouraged to add readings that are specific to their contexts.
 
 <div class="4u 12u$(medium)">
-  Click on the document link for the full course. . .
+  Click on the document link for the full course
   <a href="{{ page.global-study }}" target="_blank" class="button special fit">Global Study Course Doc</a>
 </div>
