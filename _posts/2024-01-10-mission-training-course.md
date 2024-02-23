@@ -35,21 +35,6 @@ In my years as a field development worker/ missionary, I have seen various metho
   <a href="{{ page.missionary-training}}" target="_blank" class="button special fit">Missionary Training Course Doc</a>
 </div>
 
-**Fall Like Rain** is a collection of true stories from the mission field, woven into one novel: 
-True stories that can be used as case studies. The Fall Like Rain Study Guide provides
-several ways to learn about key topics such as poverty, worldview, culture and the spiritual
-realm through the case studies. 
-
-It is for international ministry/ mission leaders and teachers, practitioners, and advocates.
-It is designed for global studies or mission classes (church or college-based), and mission
-or development worker teams (field or home front); for people who work with immigrants or
-refugees: Anyone who wants to learn more about cross-cultural ministry of any kind.
-
-Although the stories are set in Cambodia, workers from any field with a fear-power or
-honor-shame culture can learn much about cross cultural work. One theme is
-worker-as-learner, which is not specific to any one place. Key themes like poverty
-alleviation and worldview transformation are relevant on many fields.
-
 ---
 
 ### **Recommendations**
