@@ -21,10 +21,7 @@ alt-image:    "image description welcome to jekyll" # config image description t
 
 **Full Book List with Links**
 
-*required for course, other books highly recommended and may be required by leaders/ trainers
-
-Books are also listed in each topical section.
-
+*required for course, other books highly recommended and may be required by leaders / trainers
 
 *[Discipling Nations, The Power of Truth to Transform Cultures by Darrow Miller](https://www.amazon.com/s?k=Discipling+Nations%2C+The+Power+of+Truth+to+Transform+Cultures+by+Darrow+Miller&i=digital-text&crid=2IP0799SXLTJS&sprefix=discipling+nations%2C+the+power+of+truth+to+transform+cultures+by+darrow+miller%2Cdigital-text%2C618&ref=nb_sb_noss){:target="_blank"}
 
