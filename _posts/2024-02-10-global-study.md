@@ -15,7 +15,9 @@ description: >                                # config description to post list 
 header-image: "/assets/images/Artwork13.jpeg"      # config image to post header
 alt-image:    "image description test post"   # config image description to alt att.
 data: scripture-by-toppic
-global-study : "https://docs.google.com/document/d/e/2PACX-1vQ0Iu98ByuH67de8ZOOpRV87IPrXEN8_ZPqQUW2mnZ6asRfILTx_AqSPgfAVaqAdbItL4Wau86C65wi/pub"
+
+doc-title: "Global Study Course Doc"
+doc-url: "https://docs.google.com/document/d/e/2PACX-1vQ0Iu98ByuH67de8ZOOpRV87IPrXEN8_ZPqQUW2mnZ6asRfILTx_AqSPgfAVaqAdbItL4Wau86C65wi/pub"
 ---
 ### Global Studies Course
 
@@ -33,7 +35,6 @@ Lastly, other workers for the harvest are needed; senders, pastors, teachers, pr
 
 **Description:** A practical cross-cultural course of study. Using Fall Like Rain as a starting point, it explores six topics and Includes a variety of other readings, activities and resources. The topics studied are Worldview, Spiritual Realm, Culture, Poverty, Justice and Mercy, and Best Practice. The curriculum is designed to be flexible. The leader/ teacher can choose learning activities and add their own, according to their goals. It is strongly suggested, however, to approach the topics in the order written, since the concepts build sequentially. This curriculum can be done as is for a basic overview of these points, but teachers are encouraged to add readings that are specific to their contexts.
 
-<div class="4u 12u$(medium)">
-  Click on the document link for the full course
-  <a href="{{ page.global-study }}" target="_blank" class="button special fit">Global Study Course Doc</a>
-</div>
+Click on the document link for the full course . . .
+[{{ page.doc-title }}]({{ page.doc-url }}){: .button .special .fit target="_blank"}
+

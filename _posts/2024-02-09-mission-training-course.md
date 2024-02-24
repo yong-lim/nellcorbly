@@ -16,7 +16,9 @@ description: >                                      # config description to post
 # POST HEADER
 header-image: "/assets/images/Artwork18.jpeg"            # config image to post header
 alt-image:    "image description welcome to jekyll" # config image description to alt att.
-missionary-training: "https://docs.google.com/document/d/e/2PACX-1vT8yrJmdwvkHJl-g2Zk8YvroB96rN-OqKpEWTDANh8BwMROZUY5rR042_LWq8-XuOul4QiYYrNLwnkH/pub"
+
+doc-title: "Missionary Training Course Doc"
+doc-url: "https://docs.google.com/document/d/e/2PACX-1vT8yrJmdwvkHJl-g2Zk8YvroB96rN-OqKpEWTDANh8BwMROZUY5rR042_LWq8-XuOul4QiYYrNLwnkH/pub"
 ---
 ### INTRODUCTION
 
@@ -30,10 +32,8 @@ In my years as a field development worker/ missionary, I have seen various metho
 **Description:** A practical course of study for long-term cross cultural workers. The overarching emphasis is on wearing “new glasses”: a willingness to acknowledge our own blind spots. Using Fall Like Rain as a starting point only, it explores six topics and Includes a variety of other articles, books, activities and resources. The topics studied are, in order, Worldview, Spiritual Realm, Culture, Poverty, Justice and Mercy, and Best Practice. Before diving into these six topics, we will do a study on wisdom. 
  The “New Glasses” Missionary Training Course is best used as training for new missionaries on the field, but parts of it could be used pre-field as well. Mission organizations could run the course for newer missionaries, partly as a self study, with regular meetings for discussion groups. Ideally the leaders would invite experienced missionaries or nationals, who could share stories which illustrate the concepts.  The leader/ teacher can choose learning activities and add their own, according to their goals. This curriculum can be done as is for a basic overview or as a starting point on these topics, but teachers are encouraged to add readings that are specific to their contexts.
 
-<div class="4u 12u$(medium)">
-  Click on the document link for the full course
-  <a href="{{ page.missionary-training}}" target="_blank" class="button special fit">Missionary Training Course Doc</a>
-</div>
+Click on the document link for the full course . . .
+[{{ page.doc-title }}]({{ page.doc-url }}){: .button .special .fit target="_blank"}
 
 ---
 
