@@ -7,7 +7,7 @@ title:        "Global Studies Course"
 
 # POSTS LIST
 class:       "style5"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic07.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/pic05.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
   For church or school-based missions classes
 
