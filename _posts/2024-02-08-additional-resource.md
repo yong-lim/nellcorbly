@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Additional Resource"
+title:        "Additional Resources"
 # author:       "Nell Corbly"
 # categories:   jekyll update
 # tags:         tag1 tag2
@@ -11,15 +11,15 @@ data: recommendations
 class:       "style1"                        # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic04.jpg"      # config image to post list card (1..6)
 description: >                               # config description to post list card
-  Worldview challenging study for new and seasoned Missionaries
+  Books, articles, charts and more
 
 # POST HEADER
 header-image: "/assets/images/Artwork19.jpeg"            # config image to post header
 alt-image:    "image description welcome to jekyll" # config image description to alt att.
 ---
-### Additional Reading Books
+### Resource Links
 
-**Full Book List with Links**
+**Books:**
 
 **Required for course, other books highly recommended and may be required by leaders / trainers.*
 
@@ -68,3 +68,19 @@ alt-image:    "image description welcome to jekyll" # config image description t
 [Helping without Hurting in Short Term Missions by Fikkert and Corbett](https://www.amazon.com/dp/B00J48B0M6?ref_=cm_sw_r_cp_ud_dp_WSKW4D2GEGPCG09V05RF){:target="_blank"}
 
 *[Mission Drift by Peter Greer](https://a.co/d/50GiUDc){:target="_blank"}
+
+**Chart and Appendix Links:**
+
+[Chart #1- Worldview Chart](https://docs.google.com/document/d/e/2PACX-1vTH5Z9IJGPp9qbzafTTpwn-QBcj-AFPVNPTM49-gG07T8Rfp1ir8Yt7XZkt6-pWxg/pub){:target="_blank"} (adapted from the book Discipling Nations by Darrow Miller)
+
+[Chart #2- Worldview Questions](https://docs.google.com/document/d/e/2PACX-1vSxSnC_8iLLVhWCFfG3CMoyH0WMIwFJl3lCdxbVOw5IJ9PzAb4qQK4celuWST692Q/pub){:target="_blank"}
+
+[Chart #3- Excluded Middle](https://docs.google.com/document/d/e/2PACX-1vQrEvCRW4iS4d2xK_q3xzL0DXUBLUxOndAAhSIb_oiHaVXnx_TLnUIxF5IO_QhC0w/pub){:target="_blank"}
+
+[Appendix #1- Worldview Worksheet](https://docs.google.com/document/d/e/2PACX-1vTW-SDQOmmtOerA6Gvlk2-zJ12VHA7O1Wic-JJYSf5nlxCbFfQ-SCS20LYkT8McRQ/pub){:target="_blank"}
+
+[Appendix #2- Animism by JD Crowley](https://docs.google.com/document/d/e/2PACX-1vSxbKDMFVofH7ZXsOJ6EXgcTkT-fWmkBiFHQOUhKHyYyNgp5o-pJm1mDcLJlOPkcA/pub){:target="_blank"}
+
+[Appendix #3- Excluded Middle Synopsis](https://docs.google.com/document/d/e/2PACX-1vS_wV9YNbBmcgDxdGbciFqOCPacXNZsSMMe206uucch4vS_nfMWF1fcDJz3RtGPwA/pub){:target="_blank"}
+
+[Appendix #4- Values Americans Live By](https://docs.google.com/document/d/e/2PACX-1vRHiYZHl2RqmQQsc4no-ly6B12Ysotm7krG_ZYAwzGsQAAkx3_5nJT1MmDT_prem4M1Q4OOd3Jycnfc/pub){:target="_blank"}
