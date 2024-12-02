@@ -38,7 +38,7 @@ kramdown:
 
 include: ["_pages"]
 
-exclude: ["README.md", "LICENSE.md", "screenshot.png"]
-
-
-
+exclude:
+  - README.md
+  - LICENSE.md
+  - screenshot.png
