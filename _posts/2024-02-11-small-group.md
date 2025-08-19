@@ -17,7 +17,7 @@ alt-image:    "image description test post"   # config image description to alt 
 data: scripture-by-toppic
 
 doc-title: "Small Group Study Doc"
-doc-url: "https://docs.google.com/document/d/e/2PACX-1vSfwdJnGJZVngKcSRY3rOnuMD6p8sQy9SYlkBLJnwm2W1hCON4A59mUSL6l4q2_LUpvcuG8Yl8G7n_L/pub"
+doc-url: https://docs.google.com/document/d/e/2PACX-1vT-XUzo5OerACZmlurNZTWndDZ4roEfZpJyTKovaEqYC382c64x2StM4T_5N3-9REZ6RTQnmBqtsGH8/pub
 ---
 ### Small Group Bible Study Guide 
 
