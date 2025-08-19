@@ -42,3 +42,18 @@ exclude:
   - README.md
   - LICENSE.md
   - screenshot.png
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+  - docker-compose.yml
+
+# Default Markdown Engine
+markdown: kramdown
