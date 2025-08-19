@@ -1,0 +1,13 @@
+# no version needed since 2020
+    # command: bundle exec jekyll s --trace --force_polling -H 0.0.0.0 -P 5742 -l --livereload-port 35742
+services:
+  jekyll-nell:
+    image: bretfisher/jekyll-serve
+    container_name: nellcorbly
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    ports:
+      - 5742:5742
+      - 35742:35742
+    command: bundle exec jekyll s --trace --force_polling -H 0.0.0.0 -P 5742 -l --livereload-port 35742
