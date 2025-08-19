@@ -1,0 +1,15 @@
+# Files for Docker to ignore when building the image
+.git/
+.github/
+.gitignore
+.dockerignore
+README.md
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.asset-cache/
+site/
+Gemfile.lock
+
