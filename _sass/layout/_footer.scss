@@ -7,6 +7,14 @@
 /* Footer */
 @use 'sass:color';
 
+.flex-container {
+  display: flex;
+  justify-content: center; /* Centers items horizontally */
+  align-items: center; /* Centers items vertically (if needed) */
+  /* Add height if you want vertical centering to be effective */
+  min-height: 500px; /* Example height */
+}
+
 	#footer {
 		$gutter: _size(gutter);
 
@@ -63,7 +71,7 @@
 		@include breakpoint(large) {
 			$gutter: _size(gutter) * 0.5;
 
-			@include padding(5em, 0);
+			@include padding(3em, 0);
 
 			> .inner {
 				section:nth-child(1) {
